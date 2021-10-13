@@ -1,0 +1,607 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  mv 31_hold_shift /etc/grub.d/31_hold_shift
+    5  sudo mv 31_hold_shift /etc/grub.d/31_hold_shift
+    6  sudo update-grub
+    7  grep menuentry /boot/grub/grub.cfg
+    8  sudo nano /etc/default/grub
+    9  sudo update-grub
+   10  sudo nano /etc/default/grub
+   11  sudo update-grub
+   12  sudo nano /etc/default/grub
+   13  sudo update-grub
+   14  sudo nano /etc/default/grub
+   15  sudo update-grub
+   16  sudo nano /etc/default/grub
+   17  sudo update-grub
+   18  sudo nano /etc/default/grub
+   19  sudo update-grub
+   20  sudo nano /etc/default/grub
+   21  sudo update-grub
+   22  cd coding/
+   23  py hello_py.py 
+   24  ls /etc/
+   25  cat /etc/default/grub
+   26  cd coding/
+   27  g++ --version
+   28  sudo apt install g++
+   29  python3
+   30  nano hello_py.py
+   31  sudo nano /etc/default/grub
+   32  sudo update-grub
+   33  LS
+   34  ls
+   35  ls -al
+   36  nano .nanorc
+   37  cat .nanorc 
+   38  ls
+   39  cd Desktop/nano/N\ A\ N\ O\ R\ C/
+   40  ls
+   41  sudo mv nanorc-master/ /usr/local/share/nano/
+   42  nano
+   43  ..
+   44  cd ..
+   45  ls
+   46  ls -al
+   47  nano .bash
+   48  nano .bashrc 
+   49  source .bashrc
+   50  py?
+   51  which python
+   52  python --version
+   53  python3 --version
+   54  which python
+   55  which python3
+   56  nano .bashrc 
+   57  source .bashrc
+   58  py?
+   59  nano .bashrc 
+   60  source .bashrc
+   61  nano .bashrc 
+   62  source .bashrc
+   63  nano .bashrc 
+   64  source .bashrc
+   65  ls
+   66  mkdir coding
+   67  cd coding/
+   68  ls
+   69  CLEAR
+   70  clear
+   71  ~
+   72  nano .bashrc 
+   73  source .bashrc
+   74  hello
+   75  cd coding/
+   76  clear
+   77  mkvenv\
+   78  pip install virtualenv\
+   79  python3 -m pip3 install virtualenv
+   80  python3 -m pip install virtualenv
+   81  pip list
+   82  python3
+   83  sude apt search pip
+   84  sudo apt search pip
+   85  clear
+   86  apt list
+   87  sudo apt update
+   88  apt search virtualenv
+   89  apt search venv
+   90  sudo apt-get install python3-pip
+   91  apt-get update -y
+   92  sudo apt-get update -y
+   93  apt-get install -y python3-venv
+   94  ....
+   95  ~
+   96  apt-get update -y
+   97  sudo apt-get update -y
+   98  apt-get install -y python3-venv
+   99  sudo apt-get install -y python3-venv
+  100  sudo apt-get install python3-pip
+  101  sudo apt update
+  102  sudo apt install python3-pip
+  103  sudo nano /etc/apt/sources.list
+  104  nano
+  105  sudo apt update
+  106  sudo nano /etc/apt/sources.list
+  107  sudo apt update
+  108  sudo apt install python3-pip
+  109  sudo nano /etc/apt/sources.list
+  110  sudo apt update
+  111  sudo nano /etc/apt/sources.list
+  112  sudo apt update
+  113  sudo apt-get install python3-pip
+  114  LS
+  115  ls
+  116  nano .bashrc 
+  117  source .bashrc 
+  118  ls
+  119  nano .bashrc 
+  120  source .bashrc 
+  121  LS
+  122  ls
+  123  nano .bashrc 
+  124  source .bashrc 
+  125  ls
+  126  LS
+  127  ls
+  128  gsettings set org.gnome.shell.keybindings toggle-application-view "['Super_L']"
+  129  sudo apt update
+  130  sudo apt install python3-pip
+  131  sudo apt install python3-virtualenv
+  132  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  133  sudo apt install ./google-chrome-stable_current_amd64.deb
+  134  sudo apt install build-essentials
+  135  sudo apt install build-essential
+  136  g++ --version
+  137  cd coding/
+  138  nano hello.cpp
+  139  g++ hello.cpp -o run && run
+  140  c++ hello.cpp -o run && ./run
+  141  c++ version
+  142  c++ --version
+  143  echo "g++ --version""
+  144  echo "g++ --version"
+  145  pip list
+  146  mkvenv
+  147  ls
+  148  venv
+  149  pip list
+  150  deactivate 
+  151  rmvenv
+  152  apt search vscode
+  153  apt search code
+  154  apt search "visual studio code"
+  155  apt search visual-studio-code
+  156  nano ~/.bashrc 
+  157  source ~/.bashrc 
+  158  ls
+  159  g++ hello.cpp -o run && ./run
+  160  g++ --version
+  161  apt search virtualenv
+  162  apt search build-environment
+  163  apt search chrome
+  164  nano .bashrc
+  165  source .bashrc
+  166  nano .bashrc
+  167  source .bashrc
+  168  nano .bashrc
+  169  source .bashrc
+  170  apt search cpptools
+  171  apt search cpptool
+  172  apt search doctest
+  173  apt info doctest-dev
+  174  apt install doctest-dev
+  175  cd coding/
+  176  apt install doctest-dev
+  177  apt info cpptool
+  178  apt info cpptools
+  179  apt info cppcheck
+  180  apt info gtest
+  181  apt info googletest
+  182  apt info cpplint
+  183  cd coding/
+  184  g++ --version
+  185  ..
+  186  source .bashrc
+  187  cd coding/\
+  188  g++ hello.cpp -o run && ./run
+  189  g++ --version
+  190  sudo apt install default-jre
+  191  apt istall doctest-dev
+  192  apt install doctest-dev
+  193  sudo apt install doctest-dev
+  194  java --version
+  195  pwd
+  196  cd coding/
+  197  ls
+  198  mkdir jre1.8.0_301
+  199  cd jre1.8.0_301/
+  200  ls
+  201  ..
+  202  ls
+  203  cd coding/
+  204  nano hello.java
+  205  mv hello.java  Hello.java 
+  206  javac Hello.java 
+  207  java Hello.java 
+  208  java Hello
+  209  bash --version
+  210  apt list
+  211  apt search cpp
+  212  apt search cpplint
+  213  apt search cppcheck
+  214  apt search cpplint-dev
+  215  apt search cpplint-gui
+  216  apt search googlelint
+  217  apt search git
+  218  apt install git
+  219  sudo apt install git
+  220  sudo mkdir /usr/local/java
+  221  sudo mv jre-8u291-linux-x64.tar.gz /usr/local/java
+  222  LS
+  223  sudo mv jre-8u301-linux-x64.tar.gz /usr/local/java
+  224  cd /usr/local/java
+  225  LS
+  226  sudo tar zxvf jre-8u291-linux-x64.tar.gz
+  227  LS
+  228  sudo tar zxvf jre-8u301-linux-x64.tar.gz
+  229  sudo RM jre-8u301-linux-x64.tar.gz
+  230  sudo rm jre-8u301-linux-x64.tar.gz
+  231  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/java/jre1.8.0_291/bin/java" 1
+  232  java -v
+  233  java --version
+  234  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/java/jre1.8.0_301/bin/java" 1
+  235  java --version
+  236  cd /usr/local/java
+  237  ls
+  238  cd jre1.8.0_301/
+  239  ls
+  240  cd bin/
+  241  ls
+  242  cd java
+  243  ls
+  244  pwd
+  245  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/java/jre1.8.0_301/bin/java" 1
+  246  java --version
+  247  pwd
+  248  java --version
+  249  ..
+  250  ls
+  251  cp jre1.8.0_301/ Home/jre1.8.0_301/
+  252  cp jre1.8.0_301/ home/this_guy/jre1.8.0_301/
+  253  cp -r jre1.8.0_301/ home/this_guy/jre1.8.0_301/
+  254  cp -r jre1.8.0_301/ home/this_guy/coding/jre1.8.0_301/
+  255  cp -r jre1.8.0_301/ /home/this_guy/coding/jre1.8.0_301/
+  256  rm -rf jre1.8.0_301/
+  257  ls
+  258  sudo rm -rf jre1.8.0_301/
+  259  ls
+  260  sudo apt install default-jre
+  261  sudo apt install default-jdk
+  262  JAVA --VERSION
+  263  java --version
+  264  javac --version
+  265  java --version
+  266  cd /bin
+  267  ls
+  268  pwd
+  269  ls
+  270  cd /usr/bin
+  271  ls
+  272  ls -l
+  273  pip list
+  274  ls
+  275  cd coding/ls
+  276  ls
+  277  cd coding/
+  278  ls
+  279  py hello_py.py 
+  280  ls
+  281  ./rum
+  282  ./run
+  283  ls
+  284  rm .
+  285  ls
+  286  rm ./
+  287  rm .
+  288  rm ./.
+  289  rm *
+  290  kls
+  291  ls
+  292  cd jre1.8.0_301/
+  293  ls
+  294  cd jre1.8.0_301/
+  295  ls
+  296  ..
+  297  mkdir PythonSandbox
+  298  mkdir UmuziProjects
+  299  cd PythonSandbox/
+  300  pwd
+  301  ..
+  302  lks
+  303  ls
+  304  source ~/.bashrc
+  305  ls
+  306  PythonSandbox
+  307  source ~/.bashrc
+  308  PythonSandbox\
+  309  PythonSandbox
+  310  UmuziProjects 
+  311  clear
+  312  PythonSandbox 
+  313  pip list
+  314  virtualenv .venv
+  315  ls
+  316  venv
+  317  deactivate 
+  318  rmvenv
+  319  ls
+  320  mkvenv
+  321  ls
+  322  venv
+  323  pip list
+  324  pip install black
+  325  touch t.py
+  326  code .
+  327  git --version
+  328  anaconda --version
+  329  conda --version
+  330  conda list
+  331  source ~/.bashrc 
+  332  ..
+  333  source ~/.bashrc 
+  334  /bin/python3 -m pip install -U black
+  335  pip list
+  336  venv
+  337  ls
+  338  pip list
+  339  mkvenv
+  340  venv
+  341  ls
+  342  mkvenv
+  343  which python
+  344  which pip
+  345  pip list
+  346  pip --help
+  347  pip list
+  348  ls
+  349  PythonSandbox 
+  350  ls
+  351  nano t.py
+  352  source /home/this_guy/miniconda3/bin/activate
+  353  conda activate base
+  354  UmuziProjects 
+  355  ls
+  356  cd week_one/
+  357  ls
+  358  mkdir assignment_4_git_basics
+  359  cd assignment_4_git_basics/
+  360  ls
+  361  nano README.md
+  362  ls
+  363  mkdir git-basic-exercises
+  364  cd git-basic-exercises/
+  365  ls -a
+  366  git inint
+  367  git init
+  368  ls -a
+  369  git status
+  370  ls
+  371  touch README.md
+  372  ls
+  373  git log
+  374  git status
+  375  git add .
+  376  git status
+  377  git restore --staged
+  378  git restore --staged .
+  379  git status
+  380  git rm --cached .
+  381  ls
+  382  git status
+  383  git rm --cached README.md 
+  384  git status 
+  385  git add .
+  386  git status
+  387  git commit -m 
+  388  git commit -m "initial commit"
+  389  git log 
+  390  nano README.md 
+  391  ls
+  392  git status
+  393  nano README.md 
+  394  git status
+  395  git commit -am 
+  396  git commit -am "second commit"
+  397  nano README.md 
+  398  git status
+  399  git commit -am "third commit"
+  400  git log
+  401  git checkout 9ff6b0d912a131a6b0378582b8a9d494e6ff9878
+  402  cat README.md 
+  403  git checkout main
+  404  git branch
+  405  git checkout master
+  406  cat README.md 
+  407  git branch milkshake-flavours
+  408  git branch
+  409  git branch milkshake-flavours
+  410  git switch milkshake-flavours
+  411  git branch
+  412  nano milkshakes.md
+  413  git status
+  414  git add .
+  415  git status
+  416  git commit -m "added initial flavours"
+  417  git log
+  418  git switch master
+  419  git branch -M main
+  420  git branch
+  421  git log
+  422  git switch -C history
+  423  history > history.txt
+  424  ls
+  425  cat history.txt 
+  426  nano history.txt 
+  427  cat history
+  428  echo $history
+  429  echo history
+  430  history
+  431  git status
+  432  git add .
+  433  git commit -m 
+  434  git commit -m "added history"
+  435  git log
+  436  git branch
+  437  git switch milkshake-flavours
+  438  git log
+  439  man history
+  440  nano README.md 
+  441  git commit -am "random readme changes"
+  442  git log --oneline
+  443  git switch history
+  444  cat README.md 
+  445  rm README.md 
+  446  echo booya > README.md
+  447  git status
+  448  git commit -am "rewrote readme:
+"
+  449  git commit --amend
+  450  git switch main
+  451  ls
+  452  git log
+  453  git switch milkshake-flavours
+  454  ls
+  455  git log
+  456  git switch history
+  457  ls
+  458  git log
+  459  git switch main
+  460  git merge milkshake-flavours
+  461  ls
+  462  git log
+  463  git switch history
+  464  log
+  465  git log
+  466  git switch milkshake-flavours
+  467  git log
+  468  git switch history
+  469  git merge main
+  470  git log
+  471  git status
+  472  ls
+  473  nano README.md \
+  474  nano README.md 
+  475  git status
+  476  git add .
+  477  git status
+  478  cat README.md 
+  479  git commit -m 
+  480  git commit -m "merged main branch"
+  481  git switch main
+  482  git log 
+  483  git switch history
+  484  git log
+  485  cat README.md 
+  486  git commit --amend
+  487  git remote add origin git@github.com:MondeAnna/git-basic-exercises.git
+  488  git branch -M main
+  489  git push -u origin main
+  490  git remote add origin git@github.com:MondeAnna/git-basic-exercises.git
+  491  git remote
+  492  git remote -v
+  493  git push -u origin main
+  494  ssh-keygen -t rsa -C "mondeanna@gmail.com"
+  495  git push -u origin main
+  496  nano  ~/.ssh/id_rsa_umuzi.pub
+  497  ~
+  498  ls
+  499  cd .ssh/
+  500  ls
+  501  cd kn
+  502  nano known_hosts 
+  503  UmuziProjects 
+  504  ls
+  505  cd week_one/
+  506  ls
+  507  cd assignment_4_git_basics/
+  508  ls
+  509  cd git-basic-exercises/
+  510  l
+  511  ls
+  512  git status
+  513  nano id_rsa_umuzi
+  514  nano id_rsa_umuzi.pub 
+  515  nano id_rsa_umuzi
+  516  mv id_rsa_umuzi ~/.ssh/
+  517  mv id_rsa_umuzi.pub ~/.ssh/
+  518  git status
+  519  ls
+  520  cd ~/.ssh
+  521  ls
+  522  ssh-keygen -t ed25519 -C "mondeanna@gmail.com"
+  523  ls
+  524  rm id*
+  525  ls
+  526  ssh-keygen -t ed25519 -C "mondeanna@gmail.com"
+  527  ls
+  528  ssh-keygen -p -f id_rsa_umuzi
+  529  ls
+  530  eval "$(ssh-agent -s)"
+  531  ssh-add id_rsa_umuzi
+  532  ls
+  533  cat id_rsa_umuzi.pub 
+  534  UmuziProjects 
+  535  cd week_one/assignment_4_git_basics/
+  536  ls
+  537  git status
+  538  git remote 
+  539  ls
+  540  cd git-basic-exercises/
+  541  ls
+  542  git push -u origin
+  543  git push -u origin --all
+  544  git remote -v
+  545  git push -u origin main
+  546  git push --all
+  547  git branch
+  548  ls
+  549  ..
+  550  mkdir temp
+  551  cd temp/
+  552  git init
+  553  echo stuff > README.md
+  554  git add . && git commit -m "initial commit"
+  555  log --oneline
+  556  git log --oneline
+  557  rm -rf .git/
+  558  git init
+  559  touch README.md
+  560  git status
+  561  git add . && git commit -m "initial commit"
+  562  echo stuff > README.md 
+  563  git commit -am "second commit"
+  564  git status
+  565  git log
+  566  git status
+  567  ls
+  568  cat README.md 
+  569  git status
+  570  git add .
+  571  git reset --hard HEAD
+  572  cat README.md 
+  573  git log
+  574  rm README.md 
+  575  nano README.md
+  576  touch README.md 
+  577  ls
+  578  cat README.md 
+  579  git add ,
+  580  git add .
+  581  git commit --amend --no-edit
+  582  ls
+  583  git status
+  584  cat README.md 
+  585  nao README.md 
+  586  nano README.md 
+  587  git stauts
+  588  git status
+  589  git commit -am 'second commit'
+  590  git log
+  591  nano README.md 
+  592  git commit -am 'third commit'
+  593  git log
+  594  git switch -C milkshake-flavours
+  595  nano milkshakes.md
+  596  git add .
+  597  git commit -m 'added initial flavours'
+  598  git log
+  599  git switch master
+  600  ls
+  601  git switch history
+  602  git log
+  603  git branch
+  604  git switch -C history
+  605  git branch
+  606  history > history.txt
